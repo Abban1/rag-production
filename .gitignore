@@ -5,3 +5,10 @@ __pycache__/
 *.pyo
 *.pyd
 venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
